@@ -1,6 +1,6 @@
-# Vue 3 + TypeScript + Vite
+# bootstrap-vue-3-issue-392
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+This minimal project is used to reproduce [bootstrap-vue-3 issue #392](https://github.com/cdmoro/bootstrap-vue-3/issues/392)
 
 ## Recommended IDE Setup
 
